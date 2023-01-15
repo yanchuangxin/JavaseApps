@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaseApps.iml" filepath="$PROJECT_DIR$/JavaseApps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part10/Part10.iml" filepath="$PROJECT_DIR$/Part10/Part10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part11/Part11.iml" filepath="$PROJECT_DIR$/Part11/Part11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part12-IO/Part12-IO.iml" filepath="$PROJECT_DIR$/Part12-IO/Part12-IO.iml" />
+    </modules>
+  </component>
+</project>
